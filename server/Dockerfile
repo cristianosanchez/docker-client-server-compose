@@ -1,4 +1,4 @@
-FROM java:openjdk-8
+FROM openjdk:21
 
 COPY SimpleServer.java /home/SimpleServer.java
 
